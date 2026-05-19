@@ -44,22 +44,22 @@ Vector Databases
 Large Language Models
 
 # ▶️ How to Run the Notebook
-1.  Clone the repository
+1.  Clone the repository:
 git clone https://github.com/Dipeshshah007/DocMind-rag-chatbot.git
 cd DocMind-rag-chatbot
 
-2. Install Dependencies
+2. Install Dependencies:
 pip install -r requirements.txt
 
-3. Configure environment variables
+3. Configure environment variables:
 Create a .env file and add your API keys.
 OPENAI_API_KEY=your_api_key
 
-4. Run the backend
+4. Run the backend:
 cd backend
 python main.py
 
-5. Run the frontend
+5. Run the frontend:
 cd frontend
 npm run dev
 
