@@ -1,0 +1,16 @@
+# API Keys - Never upload
+backend/.env
+
+# Python
+backend/__pycache__/
+backend/*.pyc
+.venv/
+venv/
+
+# Node — This is the important one!
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
